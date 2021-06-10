@@ -1,0 +1,16 @@
+{
+  "EZMONDAY": {
+      "codes" : {
+        "code1" : "FLAT30",
+        "code2" : "FREEDEL",
+        "code3" : "B1G1"
+      }
+  },
+  "GGTUESDAY": {
+      "codes" : {
+        "code1" : "FLAT60",
+        "code2" : "B2G1"
+      }
+  }
+}
+  
